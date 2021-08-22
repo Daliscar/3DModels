@@ -1,0 +1,250 @@
+# Blender MTL File: 'knight textured.blend'
+# Material Count: 21
+
+newmtl ArmorBase
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 10.000000 full character materials\\FullCharacter_ChestArmorBase_Normal.png
+map_Kd full character materials\\FullCharacter_ChestArmorBase_BaseMap.png
+
+newmtl ArmorBase.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.000000 full character materials\\FullCharacter_PantsArmorBase_Normal.png
+map_Kd full character materials\\FullCharacter_PantsArmorBase_BaseMap.png
+
+newmtl ArmorBase.009
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.351224 0.454031 0.467202
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.000000 full character materials\\FullCharacter_Arms_Normal.png
+map_Kd full character materials\\FullCharacter_Arms_BaseMap.png
+
+newmtl ArmorPlate
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.999984 0.999984 0.999984
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.000000 full character materials\\FullCharacter_PantsArmorPlate_Normal.png
+map_Kd full character materials\\FullCharacter_PantsArmorPlate_BaseMap.png
+
+newmtl ArmorPlate1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.000000 full character materials\\FullCharacter_ArmsArmorPlate_L_1_Normal.png
+map_Kd full character materials\\FullCharacter_ArmsArmorPlate_L_1_BaseMap.png
+
+newmtl ArmorPlate2
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.075810 0.051765 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.000000 full character materials\\FullCharacter_ArmsArmorPlate_L_2_Normal.png
+map_Kd full character materials\\FullCharacter_ArmsArmorPlate_L_2_BaseMap.png
+
+newmtl ArmorPlate3
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.038607 0.034790
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.000000 full character materials\\FullCharacter_ArmsArmorPlate_R_1_Normal.png
+map_Kd full character materials\\FullCharacter_ArmsArmorPlate_R_1_BaseMap.png
+
+newmtl ArmorPlate4
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.017727 0.800000 0.021929
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.000000 full character materials\\FullCharacter_ArmsArmorPlate_R_2_Normal.png
+map_Kd full character materials\\FullCharacter_ArmsArmorPlate_R_2_BaseMap.png
+
+newmtl ArmorPlates
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.300010 0.334323 0.302057
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl ArmorStraps
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.000000 full character materials\\FullCharacter_ChestArmorStraps_Normal.png
+map_Kd full character materials\\FullCharacter_ChestArmorStraps_BaseMap.png
+
+newmtl Boots_
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.000000 full character materials\\FullCharacter_Boots _Normal.png
+map_Kd full character materials\\FullCharacter_Boots _BaseMap.png
+
+newmtl ChestPlate
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.000000 full character materials\\FullCharacter_ChestPlate_Normal.png
+map_Kd full character materials\\FullCharacter_ChestPlate_BaseMap.png
+
+newmtl DecorationHolders.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.000000 full character materials\\FullCharacter_HelmetCoverHolders_Normal.png
+map_Kd full character materials\\FullCharacter_HelmetCoverHolders_BaseMap.png
+
+newmtl FacePlate.001
+Ns 264.062490
+Ka 0.441667 0.441667 0.441667
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.000000 full character materials\\FullCharacter_HelmetFacePlate_Normal.png
+map_Kd full character materials\\FullCharacter_HelmetFacePlate_BaseMap.png
+
+newmtl Helmet.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.000000 full character materials\\FullCharacter_HelmetBase_Normal.png
+map_Kd full character materials\\FullCharacter_HelmetBase_BaseMap.png
+
+newmtl HelmetDecoration.001
+Ns 225.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.000000 full character materials\\FullCharacter_HelmetFacePlate_Normal.png
+map_Kd full character materials\\FullCharacter_HelmetFacePlate_BaseMap.png
+
+newmtl Helmet_Carvings.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.000000 full character materials\\FullCharacter_Helmet Carvings_Normal.png
+map_Kd full character materials\\FullCharacter_Helmet Carvings_BaseMap.png
+
+newmtl Plates2
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.000000 full character materials\\FullCharacter_PantsPlates2_Normal.png
+map_Kd full character materials\\FullCharacter_PantsPlates2_BaseMap.png
+
+newmtl Plates3
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.000000 full character materials\\FullCharacter_PantsPlates2_Normal.png
+map_Kd full character materials\\FullCharacter_PantsPlates2_BaseMap.png
+
+newmtl Plates4
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.128239 0.128239 0.128239
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Shoulderplates
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.000000 full character materials\\FullCharacter_Shoulderplates_Normal.png
+map_Kd full character materials\\FullCharacter_Shoulderplates_BaseMap.png
