@@ -33,7 +33,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Bump -bm 0.000000 full character materials\\FullCharacter_Arms_Normal.png
+map_Bump full character materials\\FullCharacter_Arms_Normal.png
 map_Kd full character materials\\FullCharacter_Arms_BaseMap.png
 
 newmtl ArmorPlate
