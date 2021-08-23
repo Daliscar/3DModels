@@ -67,7 +67,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd full character materials\\FullCharacter_ArmsArmorPlate_L_2_BaseMap.png
+map_Kd full character materials\\FullCharacter_ArmsArmorPlate_L_1_BaseMap.png
 
 newmtl ArmorPlate3
 Ns 225.000000
@@ -78,7 +78,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd full character materials\\FullCharacter_ArmsArmorPlate_R_1_BaseMap.png
+map_Kd full character materials\\FullCharacter_ArmsArmorPlate_L_1_BaseMap.png
 
 newmtl ArmorPlate4
 Ns 225.000000
@@ -89,7 +89,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd full character materials\\FullCharacter_ArmsArmorPlate_R_2_BaseMap.png
+map_Kd full character materials\\FullCharacter_ArmsArmorPlate_L_1_BaseMap.png
 
 newmtl ArmorPlates
 Ns 225.000000
