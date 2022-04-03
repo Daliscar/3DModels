@@ -10,9 +10,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 3
-map_Kd C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_Arms_BaseColor.png
-map_Ns C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_Arms_Roughness.png
-refl C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_Arms_Metallic.png
+map_Kd Knight3Materials\\Arms_BaseColor.png
+map_Ns Knight3Materials\\Arms_Roughness.png
+refl Knight3Materials\\Arms_Metallic.png
 
 newmtl ChestPlate
 Ns 199.999995
@@ -23,9 +23,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 3
-map_Kd C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_ChestPlate_BaseColor.png
-map_Ns C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_ChestPlate_Roughness.png
-refl C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_ChestPlate_Metallic.png
+map_Kd Knight3Materials\\ChestPlate_BaseColor.png
+map_Ns Knight3Materials\\ChestPlate_Roughness.png
+refl Knight3Materials\\ChestPlate_Metallic.png
 
 newmtl HandProtection
 Ns 199.999995
@@ -36,9 +36,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 3
-map_Kd C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_HandProtection_BaseColor.png
-map_Ns C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_HandProtection_Roughness.png
-refl C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_HandProtection_Metallic.png
+map_Kd Knight3Materials\\HandProtection_BaseColor.png
+map_Ns Knight3Materials\\HandProtection_Roughness.png
+refl Knight3Materials\\HandProtection_Metallic.png
 
 newmtl Helm
 Ns 199.999995
@@ -49,9 +49,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 3
-map_Kd C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_Helm_BaseColor.png
-map_Ns C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_Helm_Roughness.png
-refl C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_Helm_Metallic.png
+map_Kd Knight3Materials\\Helm_BaseColor.png
+map_Ns Knight3Materials\\Helm_Roughness.png
+refl Knight3Materials\\Helm_Metallic.png
 
 newmtl LegInnerArmorDown
 Ns 199.999995
@@ -62,9 +62,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 3
-map_Kd C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_LegInnerArmorDown_BaseColor.png
-map_Ns C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_LegInnerArmorDown_Roughness.png
-refl C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_LegInnerArmorDown_Metallic.png
+map_Kd Knight3Materials\\LegInnerArmorDown_BaseColor.png
+map_Ns Knight3Materials\\LegInnerArmorDown_Roughness.png
+refl Knight3Materials\\LegInnerArmorDown_Metallic.png
 
 newmtl LegInnerArmorUp
 Ns 199.999995
@@ -75,9 +75,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 3
-map_Kd C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_LegInnerArmorUp_BaseColor.png
-map_Ns C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_LegInnerArmorUp_Roughness.png
-refl C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_LegInnerArmorUp_Metallic.png
+map_Kd Knight3Materials\\LegInnerArmorUp_BaseColor.png
+map_Ns Knight3Materials\\LegInnerArmorUp_Roughness.png
+refl Knight3Materials\\LegInnerArmorUp_Metallic.png
 
 newmtl LegOuterArmorIn
 Ns 199.999995
@@ -88,9 +88,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 3
-map_Kd C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_LegOuterArmorIn_BaseColor.png
-map_Ns C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_LegOuterArmorIn_Roughness.png
-refl C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_LegOuterArmorIn_Metallic.png
+map_Kd Knight3Materials\\LegOuterArmorIn_BaseColor.png
+map_Ns Knight3Materials\\LegOuterArmorIn_Roughness.png
+refl Knight3Materials\\LegOuterArmorIn_Metallic.png
 
 newmtl LegOuterArmorOut
 Ns 199.999995
@@ -101,9 +101,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 3
-map_Kd C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_LegOuterArmorOut_BaseColor.png
-map_Ns C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_LegOuterArmorOut_Roughness.png
-refl C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_LegOuterArmorOut_Metallic.png
+map_Kd Knight3Materials\\LegOuterArmorOut_BaseColor.png
+map_Ns Knight3Materials\\LegOuterArmorOut_Roughness.png
+refl Knight3Materials\\LegOuterArmorOut_Metallic.png
 
 newmtl Legs
 Ns 199.999995
@@ -114,9 +114,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 3
-map_Kd C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_Legs_BaseColor.png
-map_Ns C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_Legs_Roughness.png
-refl C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_Legs_Metallic.png
+map_Kd Knight3Materials\\Legs_BaseColor.png
+map_Ns Knight3Materials\\Legs_Roughness.png
+refl Knight3Materials\\Legs_Metallic.png
 
 newmtl Neck
 Ns 199.999995
@@ -127,9 +127,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 3
-map_Kd C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_Neck_BaseColor.png
-map_Ns C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_Neck_Roughness.png
-refl C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_Neck_Metallic.png
+map_Kd Knight3Materials\\Neck_BaseColor.png
+map_Ns Knight3Materials\\Neck_Roughness.png
+refl Knight3Materials\\Neck_Metallic.png
 
 newmtl Sabatons
 Ns 199.999995
@@ -140,9 +140,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 3
-map_Kd C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_Sabatons_BaseColor.png
-map_Ns C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_Sabatons_Roughness.png
-refl C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_Sabatons_Metallic.png
+map_Kd Knight3Materials\\Sabatons_BaseColor.png
+map_Ns Knight3Materials\\Sabatons_Roughness.png
+refl Knight3Materials\\Sabatons_Metallic.png
 
 newmtl ShoulderGuards
 Ns 199.999995
@@ -153,6 +153,6 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_ShoulderGuards_BaseColor.png
-map_Ns C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_ShoulderGuards_Roughness.png
-refl C:\\Users\\sirsa\\OneDrive\\Documents\\Allegorithmic\\Substance Painter\\export\\Knight\\MyKnight- (full mine copyrifght) - Split up - With Materials(real)_ShoulderGuards_Metallic.png
+map_Kd Knight3Materials\\ShoulderGuards_BaseColor.png
+map_Ns Knight3Materials\\ShoulderGuards_Roughness.png
+refl Knight3Materials\\ShoulderGuards_Metallic.png
